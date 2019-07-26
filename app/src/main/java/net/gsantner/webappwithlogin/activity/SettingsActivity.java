@@ -1,6 +1,5 @@
 package net.gsantner.webappwithlogin.activity;
 
-import android.annotation.SuppressLint;
 import android.content.Context;
 import android.content.SharedPreferences;
 import android.os.Bundle;
@@ -99,10 +98,9 @@ public class SettingsActivity extends AppCompatActivity {
         }
 
         @Override
-        public Boolean onPreferenceClicked(Preference preference) {
+        public Boolean onPreferenceClicked(Preference preference, String key, int keyResId) {
             if (isAdded() && preference.hasKey()) {
                 AppSettings settings = AppSettings.get();
-                String key = preference.getKey();
                 if (settings.isKeyEqual(key, R.string.profile_1)) {
                     ((SettingsActivity) getActivity()).showFragment(SettingsFragmentProfile.TAG0, true);
                     return true;
