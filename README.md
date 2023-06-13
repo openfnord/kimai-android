@@ -48,10 +48,8 @@ which not has been archived!
 
 
 !
-
 _In future, if you want to archive.org github projects make sure to click the "Download Zip" in Code to the top right to make sure, 
 that archive.org archives the code base for future usage.
-
 !
 
 
@@ -84,7 +82,8 @@ It makes mobile time tracking and logging into your kimai existing installation 
     <img src="https://f-droid.org/badge/get-it-on.png" alt="Get it on F-Droid" height="80">
 </a>
 <br>
-Removed link to google play as this is commercial.
+Removed link to google play as this promotes the commercial version.<br>
+Get your open source apps from f-droid.org.
 <br>
 </div></br>
 
