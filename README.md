@@ -1,8 +1,4 @@
-[![GitHub release](https://img.shields.io/github/release/gsantner/kimai-android.svg)](https://github.com/gsantner/kimai-android/releases)
-[![Donate](https://img.shields.io/badge/donate-bitcoin-orange.svg)](http://gsantner.net/#donate)
-[![Donate LiberaPay](https://img.shields.io/badge/donate-liberapay-orange.svg)](https://liberapay.com/gsantner/donate)
-[![Build Status](https://travis-ci.org/gsantner/kimai-android.svg?branch=master)](https://travis-ci.org/gsantner/kimai-android)
-[![Translate - with Stringlate](https://img.shields.io/badge/stringlate-translate-green.svg)](https://lonamiwebs.github.io/stringlate/translate?git=https%3A%2F%2Fgithub.com%2Fgsantner%2Fkimai-android.git&name=Kimai%20TT&web=https%3A%2F%2Fgithub.com%2Fgsantner%2Fkimai-android)
+[![Translate - with Stringlate](https://img.shields.io/badge/stringlate-translate-green.svg)](https://lonamiwebs.github.io/stringlate/translate?git=https%3A%2F%2Fgithub.com%2Fopenfnord%2Fkimai-android.git&name=Kimai%20TT&web=https%3A%2F%2Fgithub.com%2Fopenfnord%2Fkimai-android)
 
 **EVIL: Unfortunately kimai went commercial: **
 
