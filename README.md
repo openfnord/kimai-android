@@ -134,3 +134,18 @@ Note that the projects [cherrymusic-android](https://github.com/gsantner/cherrym
 	<img src="https://raw.githubusercontent.com/openfnord/kimai-android/master/metadata/en-US/phoneScreenshots/05.png" width="24%" style="margin-left:10px;" >
 	<img src="https://raw.githubusercontent.com/openfnord/kimai-android/master/metadata/en-US/phoneScreenshots/02.png" width="24%" style="margin-left:10px;" >
 </div>
+
+## Other forked Repos for this project
+
+Hopefully I found all repos of the Kimai project so the whole eco system is preserved now for further development
+
+- https://github.com/openfnord/kimai-android  (android app for kimai, this one)
+- https://github.com/openfnord/kimai (web based kimai server)
+- https://github.com/openfnord/kimai-invoice-templates (templates for kimai server)
+- https://github.com/openfnord/kimai-docker (dockerized kimai web based server)
+- https://github.com/openfnord/kimai-api-php (api for web based server)
+
+- https://github.com/openfnord/kimai-homepage (homepage of kimai project)
+- https://github.com/openfnord/kimai-images (logos and images) 
+ 
+ 
