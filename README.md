@@ -4,6 +4,49 @@
 [![Build Status](https://travis-ci.org/gsantner/kimai-android.svg?branch=master)](https://travis-ci.org/gsantner/kimai-android)
 [![Translate - with Stringlate](https://img.shields.io/badge/stringlate-translate-green.svg)](https://lonamiwebs.github.io/stringlate/translate?git=https%3A%2F%2Fgithub.com%2Fgsantner%2Fkimai-android.git&name=Kimai%20TT&web=https%3A%2F%2Fgithub.com%2Fgsantner%2Fkimai-android)
 
+Unfortunately kimai went commercial: 
+
+https://www.kimai.org/store/
+https://web.archive.org/web/20230320232125/https://www.kimai.org/store/
+https://www.kimai.org/store/mr-software-android-offline-tracker.html
+https://web.archive.org/web/20230128171651/https://www.kimai.org/store/mr-software-android-offline-tracker.html
+
+I consider this to be Evil, so I suggest to fork kimai and to continue open source development.
+
+Therefore I researched using archive.org for the most up2date fork of kimai and found 
+https://github.com/TiagoDanin-Forks/kimai-android
+to be the last available version. 
+
+
+forked from most up2date fork with commit https://github.com/gsantner/kimai-android/commit/680b8be95c766b87e27b5ac07d6975569c144971 (404)
+https://web.archive.org/web/20221221162252mp_/https://github.com/gsantner/kimai-android/commit/680b8be95c766b87e27b5ac07d6975569c144971 (linked by below) 
+https://web.archive.org/web/20221221162252/https://github.com/gsantner/kimai-android
+but not archived.
+
+https://github.com/TiagoDanin-Forks/kimai-android/commit/680b8be95c766b87e27b5ac07d6975569c144971
+is the same commit!
+
+To verify press 68b8be on this archive and you are redirected to the same url ... 
+https://web.archive.org/web/20221221162252/https://github.com/gsantner/kimai-android/
+which is:
+https://web.archive.org/web/20221221162252mp_/https://github.com/gsantner/kimai-android/commit/680b8be95c766b87e27b5ac07d6975569c144971
+which not has been archived!
+
+!
+In future, if you want to archive.org github projects make sure to click the "Download Zip" in Code to the top right to make sure, 
+that archive.org archives the code base for future usage.
+!
+
+So this is the best repo to my knowledge to fork the kimai time tracking app from, and I cloned this repo as I plan to fork kimai time tracker 
+to lead it into the everlasting freedom of open source software.
+
+Also the server application needs to be forked, as it could be removed by the original author without notice, as he could come to the idea to provide it only as a service collecting nice data on your projects and customers :-( 
+
+So lets fork it.
+
+Hopefully there will be active development soon.
+
+quote:
 **Notice**: Project is not in active development, don't expect new features or fixes. The project is still maintained and is open for merge requests (contributions are welcome).
 
 # Kimai TimeTracker
