@@ -83,9 +83,9 @@ It makes mobile time tracking and logging into your kimai existing installation 
 <a href="https://f-droid.org/repository/browse/?fdid=de.live.gdev.timetracker">
     <img src="https://f-droid.org/badge/get-it-on.png" alt="Get it on F-Droid" height="80">
 </a>
-<a href="https://play.google.com/store/apps/details?id=de.live.gdev.timetracker">
-    <img alt="Get it on Google Play" height="80" src="https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png" />
-</a>
+<br>
+Removed link to google play as this is commercial.
+<br>
 </div></br>
 
 
@@ -114,7 +114,7 @@ Translations can be contributed on GitHub or via [E-Mail](http://gsantner.net/#c
 
 
 #### Resources
-* Project: [Changelog](/CHANGELOG.md) | [Issues level/beginner](https://github.com/gsantner/kimai-android/issues?q=is%3Aissue+is%3Aopen+label%3Alevel%2Fbeginner) | [License](/LICENSE.txt) | [CoC](/CODE_OF_CONDUCT.md)
+* Project: [Changelog](/CHANGELOG.md) | [Issues level/beginner](https://github.com/openfnord/kimai-android/issues?q=is%3Aissue+is%3Aopen+label%3Alevel%2Fbeginner) | [License](/LICENSE.txt) | [CoC](/CODE_OF_CONDUCT.md)
 * App on F-Droid: [Metadata](https://gitlab.com/fdroid/fdroiddata/blob/master/metadata/de.live.gdev.timetracker.txt) | [Page](https://f-droid.org/packages/de.live.gdev.timetracker/) | [Wiki](https://f-droid.org/wiki/page/de.live.gdev.timetracker) | [Build log](https://f-droid.org/wiki/page/de.live.gdev.timetracker/lastbuild)
 * Kimai: [Homepage](http://www.kimai.org/) | [Demo Account](https://demo.kimai.org/status.php)
 
@@ -127,11 +127,11 @@ Note that the projects [cherrymusic-android](https://github.com/gsantner/cherrym
 
 ## Screenshots
 <div style="display:flex;" >
-	<img src="https://raw.githubusercontent.com/gsantner/kimai-android/master/metadata/en-US/phoneScreenshots/01.png" width="59%" >
+	<img src="https://raw.githubusercontent.com/openfnord/kimai-android/master/metadata/en-US/phoneScreenshots/01.png" width="59%" >
 </div>
 <div style="display:flex;" >
-	<img src="https://raw.githubusercontent.com/gsantner/kimai-android/master/metadata/en-US/phoneScreenshots/03.png" width="24%" >
-	<img src="https://raw.githubusercontent.com/gsantner/kimai-android/master/metadata/en-US/phoneScreenshots/04.png" width="24%" style="margin-left:10px;" >
-	<img src="https://raw.githubusercontent.com/gsantner/kimai-android/master/metadata/en-US/phoneScreenshots/05.png" width="24%" style="margin-left:10px;" >
-	<img src="https://raw.githubusercontent.com/gsantner/kimai-android/master/metadata/en-US/phoneScreenshots/02.png" width="24%" style="margin-left:10px;" >
+	<img src="https://raw.githubusercontent.com/openfnord/kimai-android/master/metadata/en-US/phoneScreenshots/03.png" width="24%" >
+	<img src="https://raw.githubusercontent.com/openfnord/kimai-android/master/metadata/en-US/phoneScreenshots/04.png" width="24%" style="margin-left:10px;" >
+	<img src="https://raw.githubusercontent.com/openfnord/kimai-android/master/metadata/en-US/phoneScreenshots/05.png" width="24%" style="margin-left:10px;" >
+	<img src="https://raw.githubusercontent.com/openfnord/kimai-android/master/metadata/en-US/phoneScreenshots/02.png" width="24%" style="margin-left:10px;" >
 </div>
