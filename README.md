@@ -109,7 +109,7 @@ Any other data than your entered data won't be collected or stored on your devic
 The project is always open for contributions and accepts pull requests.
 The project uses [AOSP Java Code Style](https://source.android.com/source/code-style#follow-field-naming-conventions), with one exception: private members are `_camelCase` instead of `mBigCamel`. You may use Android Studios _auto reformat feature_ before sending a PR.
 
-Translations can be contributed on GitHub or via [E-Mail](http://gsantner.net/#contact). You can use Stringlate ([![Translate - with Stringlate](https://img.shields.io/badge/stringlate-translate-green.svg)](https://lonamiwebs.github.io/stringlate/translate?git=https%3A%2F%2Fgithub.com%2Fgsantner%2Fkimai-android.git&name=Kimai%20TT&web=https%3A%2F%2Fgithub.com%2Fgsantner%2Fkimai-android)) to translate the project directly on your Android phone. It allows you to export as E-Mail attachement and to post on GitHub.
+Translations can be contributed on GitHub. You can use Stringlate ([![Translate - with Stringlate](https://img.shields.io/badge/stringlate-translate-green.svg)](https://lonamiwebs.github.io/stringlate/translate?git=https%3A%2F%2Fgithub.com%2Fopenfnord%2Fkimai-android.git&name=Kimai%20TT&web=https%3A%2F%2Fgithub.com%2Fopenfnord%2Fkimai-android)) to translate the project directly on your Android phone. It allows you to export as E-Mail attachement and to post on GitHub.
 
 
 #### Resources
